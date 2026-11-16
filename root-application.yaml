@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/gitops-demo.git
+    repoURL: https://github.com/Gyanesh1506/gitops-demo.git
     targetRevision: main
     path: argocd
     directory:
